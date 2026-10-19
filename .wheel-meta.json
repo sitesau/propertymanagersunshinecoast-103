@@ -1,0 +1,22 @@
+{
+  "wheel_id": 461,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-103",
+  "project": "property-managers-sunshine-coast-signs-you-need-7ef03517894f448",
+  "parent_t1_ref": "propertymanagersunshinecoast-151",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property managers sunshine coast signs you need",
+  "intended_url": "https://sites-e470-2.web.app/property-managers-sunshine-coast-signs-you-need-7ef03517894f448/",
+  "tier": "T2",
+  "writeback_nonce": "dcd5c38f2a7d31a0",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/property-managers-sunshine-coast-6e34779c700d7a3b67376f68052eb3/",
+      "anchor": "the property managers sunshine coast overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
